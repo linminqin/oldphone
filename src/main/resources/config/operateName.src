@@ -1,0 +1,10 @@
+##---------用户操作行为名称-----------##
+
+#通用
+opeType_add=添加
+opeType_delete=删除
+opeType_batchdelete=批量删除
+opeType_update=修改
+opeType_sort=排序
+opeType_login=登陆
+opeType_logout=退出登陆
